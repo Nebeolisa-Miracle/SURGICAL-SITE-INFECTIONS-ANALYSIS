@@ -80,7 +80,8 @@ The dataset contains records of surgical site infections reported by hospitals a
 
 ###  Dashboard Preview
 
-<img width="868" height="503" alt="image" src="https://github.com/user-attachments/assets/cc991080-f279-4b60-b0f7-88093a69df03" /> 
+ <img width="804" height="472" alt="SIR 11" src="https://github.com/user-attachments/assets/6fd18e4e-e80a-4f2c-aa7e-0704a3b76ee2" />
+
 
 <img width="868" height="509" alt="SIR 2" src="https://github.com/user-attachments/assets/8aaff04b-014f-45a9-970b-648138aa0a5c" />
 

@@ -83,26 +83,18 @@ The dataset contains records of surgical site infections reported by hospitals a
 <img width="868" height="509" alt="SIR 2" src="https://github.com/user-attachments/assets/8aaff04b-014f-45a9-970b-648138aa0a5c" />
 
 
-## 📖 Medium Article
+### Medium Article
+Read the full project documentation here: [Medium](https://medium.com/@nebeolisamiracle99/surgical-site-infections-data-analysis-30da736bd31c)
 
-Read the full project documentation here:
 
-🔗 https://medium.com/@nebeolisamiracle99/surgical-site-infections-data-analysis-30da736bd31c
-
----
-
-## 👩‍💻 Author
+### Author
 
 ### Nebeolisa Miracle
 
 **Data Analyst | Data Analytics Tutor | Problem Solver**
 
-### Connect with me
-
-- LinkedIn: https://www.linkedin.com/in/nebeolisa-miracle
-- Medium: https://medium.com/@nebeolisamiracle99
-- GitHub: https://github.com/Nebeolisa-Miracle
-
----
+### Connect with me: 
+[LinkedIn](https://www.linkedin.com/in/nebeolisa-miracle)
+ 
 
 ## ⭐ If you found this project insightful, kindly give this repository a star.

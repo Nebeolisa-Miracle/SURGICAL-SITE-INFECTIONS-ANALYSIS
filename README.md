@@ -6,7 +6,7 @@ Surgical Site Infections (SSIs) remain one of the major challenges facing health
 
 This project analyzes surgical site infection data collected from California hospitals between 2021 and 2023 to uncover infection trends, evaluate hospital performance, and identify key factors associated with infection rates.
 
-The analysis was carried out using Power BI to transform raw healthcare data into actionable insights that can support evidence-based decision-making and improve patient care.
+The analysis was carried out using Excel, Power BI and other tools, to transform raw healthcare data into actionable insights that can support evidence-based decision-making and improve patient care.
 
 
 ### PROJECT OBJECTIVES
@@ -65,6 +65,8 @@ The dataset contains records of surgical site infections reported by hospitals a
 2. Although infection rates improved, the total number of reported infections increased over time, suggesting increased surgical procedures or better reporting systems.
 3. A significant proportion of hospitals recorded SIR values greater than 1, indicating infection rates above expected benchmarks.
 4. The analysis revealed noticeable differences between predicted infections and actual infections, highlighting areas requiring further investigation.
+5. Excess infections were concentrated in a few hospitals, suggesting that infection-control challenges are more severe in specific facilities.
+6. Some hospitals consistently performed below expected benchmarks, indicating differences in the effectiveness of infection-prevention measures.
 
 
 ###  RECOMMENDATIONS

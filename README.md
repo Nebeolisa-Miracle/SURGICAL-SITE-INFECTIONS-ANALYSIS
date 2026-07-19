@@ -85,11 +85,11 @@ The dataset contains records of surgical site infections reported by hospitals a
 <img width="868" height="509" alt="SIR 2" src="https://github.com/user-attachments/assets/8aaff04b-014f-45a9-970b-648138aa0a5c" />
 
 
-### Medium Article
+### Medium Article:
 Read the full project documentation here: [Medium](https://medium.com/@nebeolisamiracle99/surgical-site-infections-data-analysis-30da736bd31c)
 
 
-### Author
+### Author:
 
 ### Nebeolisa Miracle
 

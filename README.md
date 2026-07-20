@@ -99,5 +99,3 @@ Read the full project documentation here: [Medium](https://medium.com/@nebeolisa
 ### Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/nebeolisa-miracle)
  
-
-## ⭐ If you found this project insightful, kindly give this repository a star.
